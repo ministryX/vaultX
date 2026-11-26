@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="VaultX">
+  <defs>
+    <linearGradient id="vx-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#4338CA"/>
+    </linearGradient>
+    <linearGradient id="vx-shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E0E7FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#vx-bg)"/>
+  <path d="M64 18 L100 31 V60 C100 83 85 101 64 110 C43 101 28 83 28 60 V31 Z" fill="url(#vx-shield)"/>
+  <circle cx="64" cy="55" r="11" fill="#4338CA"/>
+  <path d="M58.5 61 H69.5 L72.5 84 H55.5 Z" fill="#4338CA"/>
+</svg>
